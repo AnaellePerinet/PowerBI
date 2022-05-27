@@ -1,1 +1,3 @@
 # PowerBI
+
+  Quelques dashboards simples.
